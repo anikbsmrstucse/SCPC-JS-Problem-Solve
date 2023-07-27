@@ -4,7 +4,6 @@ function secondSmallest(numbers){
         const element = numbers[i];
         if(element < smallest){
             smallest = element;
-            
         }
 
     }
